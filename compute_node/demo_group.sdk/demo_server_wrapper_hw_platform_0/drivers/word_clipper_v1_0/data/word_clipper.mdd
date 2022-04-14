@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER word_clipper
+	OPTION supported_peripherals = (word_clipper);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = word_clipper;
+END DRIVER

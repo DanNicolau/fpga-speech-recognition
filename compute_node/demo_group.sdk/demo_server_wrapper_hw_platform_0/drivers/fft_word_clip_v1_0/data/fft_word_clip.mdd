@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER fft_word_clip
+	OPTION supported_peripherals = (fft_word_clip);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = fft_word_clip;
+END DRIVER

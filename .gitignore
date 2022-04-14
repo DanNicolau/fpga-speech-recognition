@@ -1,0 +1,7 @@
+*.swp
+*.swo
+__pycache__/
+.vscode/
+*.wav
+*.log
+*.m4a
